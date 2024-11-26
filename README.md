@@ -1,5 +1,3 @@
-```markdown
-
 # Flask Application with SQLAlchemy
 
 This document outlines the steps to create a Flask application using SQLAlchemy for database management. It includes setup instructions, database initialization, and troubleshooting common errors.
