@@ -163,7 +163,9 @@ By following these steps, you should be able to set up a new SQLite database for
 
 ### Conclusion
 If you need further modifications or additional information included, feel free to ask!
+```bash
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42696768/22f2bad2-75b3-4aba-909a-655f68fc62d2/paste.txt
 [2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42696768/a918ea18-5bbb-4681-bc25-3abba2a9c45e/paste-2.txt
 [3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42696768/37feff5d-a3eb-4f1c-a06b-58d9a1e0b3cf/paste-3.txt
+```
