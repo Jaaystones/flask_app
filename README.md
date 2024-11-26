@@ -160,14 +160,9 @@ If you encounter an error stating that there is no such table, follow these step
    ```
 
 By following these steps, you should be able to set up a new SQLite database for your Flask application and troubleshoot any issues related to table creation.
-```
 
 ### Conclusion
-
-This Markdown file provides a structured overview of setting up a Flask application with SQLAlchemy, including creating a new database and troubleshooting common errors like missing tables. You can save this content in a `.md` file for reference or documentation purposes.
-
 If you need further modifications or additional information included, feel free to ask!
-
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42696768/22f2bad2-75b3-4aba-909a-655f68fc62d2/paste.txt
 [2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42696768/a918ea18-5bbb-4681-bc25-3abba2a9c45e/paste-2.txt
