@@ -12,9 +12,7 @@ This document outlines the steps to create a Flask application using SQLAlchemy 
 6. [Troubleshooting Common Errors](#troubleshooting-common-errors)
 
 ## Project Structure
-
-A suggested directory structure for your Flask application:
-bash ```
+```bash
 flask_app/
 ├── server.py # Entry point for the application
 ├── controller/ # Directory for database models
